@@ -1,0 +1,9 @@
+libnl-3-200         install
+libnl-genl-3-200    install
+iw                  install
+libreadline5        install
+libpcsclite1        install
+libdbus-1-3         install
+wpasupplicant       install
+libiw30             install
+wireless-tools      install
